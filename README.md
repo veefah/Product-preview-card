@@ -7,6 +7,7 @@ The challenge
 Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
+  
 ## My process
 Built with
 - Semantic HTML5 markup
@@ -14,11 +15,11 @@ Built with
 - Flexbox
 - Responsive design
 - Media queries
-- "<picture>" element
+- "picture" element
 
 ### What I learned
 While working on this project, I practiced building a responsive layout using Flexbox and media queries.
-I also learned how to use the "<picture>" element with different image sources for different screen sizes.
+I also learned how to use the "picture" element with different image sources for different screen sizes.
 One of the challenges I faced was making the product image and card layout work properly across different viewport widths, especially on smaller screens.
 This project also helped me practice using the CSS box model, sizing elements, spacing, and debugging layout issues using browser developer tools.
 
