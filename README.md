@@ -33,5 +33,6 @@ I used it to help me understand CSS concepts, identify layout issues, and work t
 I still implemented and tested the changes myself, using the explanations and hints to understand why the solution worked.
 
 ## Author
-- Frontend Mentor - "@veefah" (https://www.frontendmentor.io/profile/veefah)
-- GitHub - "@veefah" (https://github.com/veefah)
+@veefah
+- Frontend Mentor : https://www.frontendmentor.io/profile/veefah
+- Live site URL : https://veefah.github.io/Product-preview-card/
